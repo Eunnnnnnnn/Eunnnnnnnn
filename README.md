@@ -30,22 +30,20 @@
   <a href="https://0624pjh@gmail.com"><img src="https://img.shields.io/badge/Gmail-26A5E4?style=flat&logo=Gmail&logoColor=white&link=https://0624pjh@gmail.com"/></a>
   <br>
   <br>
-  <a href="s"><img src="https://github-readme-stats.vercel.app/api?username=eunnnnnnnn&theme=tokyonight&show_icons=true" width="33%" /></a>
+  <a href="s"><img src="https://github-readme-stats.vercel.app/api?username=eunnnnnnnn&theme=tokyonight&show_icons=true" width="43%" /></a>
   <a href="s"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunnnnnnnn&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" /></a>
 </p>
 
 <br>
 
-![](https://github.com/Eunnnnnnnn/github-stats-transparent/blob/output/generated/overview.svg)
-![](https://github.com/Eunnnnnnnn/github-stats-transparent/blob/output/generated/languages.svg)
+
 
 
 </div>
 
 <!--
-<a href="https://velog.io/@0624pjh"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@0624pjh"/></a>
-<a href="https://www.instagram.com/jidns_e/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/jidns_e/"/></a>
-<a href="https://0624pjh@gmail.com"><img src="https://img.shields.io/badge/Gmail-26A5E4?style=flat&logo=Gmail&logoColor=white&link=https://0624pjh@gmail.com"/></a>
+![](https://github.com/Eunnnnnnnn/github-stats-transparent/blob/output/generated/overview.svg)
+![](https://github.com/Eunnnnnnnn/github-stats-transparent/blob/output/generated/languages.svg)
   
 **Eunnnnnnnn/Eunnnnnnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
