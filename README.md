@@ -30,7 +30,7 @@
   <a href="https://0624pjh@gmail.com"><img src="https://img.shields.io/badge/Gmail-26A5E4?style=flat&logo=Gmail&logoColor=white&link=https://0624pjh@gmail.com"/></a>
   <br>
   <br>
-  <a href="s"><img src="https://github-readme-stats.vercel.app/api?username=eunnnnnnnn&theme=tokyonight&show_icons=true" width="43%" /></a>
+  <a href="s"><img src="https://github-readme-stats.vercel.app/api?username=eunnnnnnnn&theme=tokyonight&show_icons=true" width="40%" /></a>
   <a href="s"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunnnnnnnn&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" /></a>
 </p>
 
